@@ -81,20 +81,19 @@ For information about the AI Horde, see [aihorde.net](https://aihorde.net). For 
 
 ### Miscellaneous projects
 
-These may or may not even be AI-Horde related tools. They mostly have no descriptions
+These may or may not even be AI-Horde related tools. They mostly have no descriptions. Commentary in *italics*.
 
 |Name|Description|
 |--|-------|
-|[sdwebui-w-horde/horde-models](https://github.com/sdwebui-w-horde/horde-models)|Stable Horde Supported Model References|
+|[sdwebui-w-horde/horde-models](https://github.com/sdwebui-w-horde/horde-models)|Stable Horde Supported Model References<br>*??? Not the official horde model reference*|
 |[AesSedai/horde-control-tower](https://github.com/AesSedai/horde-control-tower)|Horde Control Tower is an open source AI Horde moderation utility|
-|[Breadcord-Toasts/StableHorde](https://github.com/Breadcord-Toasts/StableHorde)||
-|[CazCzw/StableHordeUnity](https://github.com/CazCzw/StableHordeUnity)||
-|[JamDon2/ai-horde-bot](https://github.com/JamDon2/ai-horde-bot)||
-|[JamDon2/stable-horde-api](https://github.com/JamDon2/stable-horde-api)||
-|[JamDon2/stable-horde-next](https://github.com/JamDon2/stable-horde-next)||
-|[KyuubiYoru/StableHordeProxy](https://github.com/KyuubiYoru/StableHordeProxy)||
-|[Seikho/ai-horde](https://github.com/Seikho/ai-horde)||
-|[VilotStar/StableHorder](https://github.com/VilotStar/StableHorder)||
-|[XiuruJin/AI-Horde](https://github.com/XiuruJin/AI-Horde)||
-|[gerardosantacruz/Stable-Horde-App-BasicDemo](https://github.com/gerardosantacruz/Stable-Horde-App-BasicDemo)||
-|[gladly37/Horde-AI-FMP](https://github.com/gladly37/Horde-AI-FMP)||
+|[Breadcord-Toasts/StableHorde](https://github.com/Breadcord-Toasts/StableHorde)|*Appears to be a discord integration*|
+|[CazCzw/StableHordeUnity](https://github.com/CazCzw/StableHordeUnity)|*A single .cs file.*|
+|[JamDon2/ai-horde-bot](https://github.com/JamDon2/ai-horde-bot)|*An (old?) discord bot. I **think** this was replaced with [ZeldaFan0225/AI_Horde_Discord](https://github.com/ZeldaFan0225/AI_Horde_Discord)*|
+|[JamDon2/stable-horde-api](https://github.com/JamDon2/stable-horde-api)|*An (old?) javascript api for interacting with the Horde. I **think** this was replaced with [ZeldaFan0225/ai_horde](https://github.com/ZeldaFan0225/ai_horde)*|
+|[JamDon2/stable-horde-next](https://github.com/JamDon2/stable-horde-next)|*Appears to be a very old Horde frontend. The link in the readme does not work.*|
+|[KyuubiYoru/StableHordeProxy](https://github.com/KyuubiYoru/StableHordeProxy)|*A C# project of unknowm use*|
+|[Seikho/ai-horde](https://github.com/Seikho/ai-horde)|Stable Horde Request library|
+|[VilotStar/StableHorder](https://github.com/VilotStar/StableHorder)|*Looks like a rust project for requesting images*||
+|[XiuruJin/AI-Horde](https://github.com/XiuruJin/AI-Horde)|*Shows up in github search, but doesnt exost???*|
+|[gerardosantacruz/Stable-Horde-App-BasicDemo](https://github.com/gerardosantacruz/Stable-Horde-App-BasicDemo)|*Very old. No documentation.*|
