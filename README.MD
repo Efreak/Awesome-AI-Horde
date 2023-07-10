@@ -36,7 +36,7 @@ For information about the AI Horde, see [aihorde.net](https://aihorde.net). For 
 |[Pudzill/HordeTalk---KoboldAI-Horde-Chatbot](https://github.com/Pudzill/HordeTalk---KoboldAI-Horde-Chatbot)|Terminal chatbot. Powered by KoboldAI Horde.||
 |[ZeldaFan0225/AI_Horde_Discord](https://github.com/ZeldaFan0225/AI_Horde_Discord)|A discord bot to interact with https://stablehorde.net||
 |CraiyonArt Bot|Telegram bot|[![join telegram](https://img.shields.io/endpoint?label=CraiyonArtBot&style=flat-square&url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3CraiyonArtBot)](https://t.me/CraiyonArtBot)|
-|[HarrisonVanderbyl/WriterBot](https://github.com/harrisonvanderbyl/WriterBot)|Discord bot|(https://harrisonvanderbyl.github.io/WriterBot/)|
+|[HarrisonVanderbyl/WriterBot](https://github.com/harrisonvanderbyl/WriterBot)|Discord bot|[website](https://harrisonvanderbyl.github.io/WriterBot/)|
 |[TuringAI-Team/turing-bot](https://github.com/MrlolDev/turing-bot)|A discord bot for use the most popular game changing AIs. *Archived*|[![discord](https://dcbadge.vercel.app/api/server/uJDg2SxR8C?style=plastic)](https://dsc.gg/turing)
 
 ### Worker projects
