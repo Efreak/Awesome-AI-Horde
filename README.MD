@@ -26,19 +26,18 @@ For information about the AI Horde, see [aihorde.net](https://aihorde.net). For 
 
 ### Bots
 
-|Name|Description|Links|
-|--|-------|--|
-|[Haidra-Org/mastodon-ai-horde-generate](https://github.com/Haidra-Org/mastodon-ai-horde-generate)|A mastodon bot generating stable diffusion images as replies||
-|[Haidra-Org/reddit-stable-horde-generate](https://github.com/Haidra-Org/reddit-stable-horde-generate)|A Reddit bot generating stable diffusion images as replies||
-|[AceBeaker2/StableHorde-LemonBot](https://github.com/AceBeaker2/StableHorde-LemonBot)|A feature-packed multi-model text2image discord bot!||
-|[Enerv/ai-horde-discord-bot](https://github.com/Enerv/ai-horde-discord-bot)|Discord bot written in Node.js adapted to the Pygmalion 6B model and integrated with the AI Horde endpoint gateway.||
-|[OpenReplicant/DiscordPrototype](https://github.com/OpenReplicant/DiscordPrototype)|Prototype Discord bot integrating Kobold Horde LLM with Stable Horde diffusion & captioning. Intent recognition for advanced features, starter project.||
-|[Pudzill/HordeTalk---KoboldAI-Horde-Chatbot](https://github.com/Pudzill/HordeTalk---KoboldAI-Horde-Chatbot)|Terminal chatbot. Powered by KoboldAI Horde.||
-|[ZeldaFan0225/AI_Horde_Discord](https://github.com/ZeldaFan0225/AI_Horde_Discord)|A discord bot to interact with https://stablehorde.net||
-|CraiyonArt Bot|Telegram bot|[![join telegram](https://img.shields.io/endpoint?label=CraiyonArtBot&style=flat-square&url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3CraiyonArtBot)](https://t.me/CraiyonArtBot)|
-|[HarrisonVanderbyl/WriterBot](https://github.com/harrisonvanderbyl/WriterBot)|Discord bot|[website](https://harrisonvanderbyl.github.io/WriterBot/)|
-|[TuringAI-Team/turing-bot](https://github.com/MrlolDev/turing-bot)|A discord bot for use the most popular game changing AIs. *Archived*|[![discord](https://dcbadge.vercel.app/api/server/uJDg2SxR8C?style=plastic)](https://dsc.gg/turing)
-
+|Name|Description|
+|--|-------|
+|[Haidra-Org/mastodon-ai-horde-generate](https://github.com/Haidra-Org/mastodon-ai-horde-generate)|A mastodon bot generating stable diffusion images as replies|
+|[Haidra-Org/reddit-stable-horde-generate](https://github.com/Haidra-Org/reddit-stable-horde-generate)|A Reddit bot generating stable diffusion images as replies|
+|[AceBeaker2/StableHorde-LemonBot](https://github.com/AceBeaker2/StableHorde-LemonBot)|A feature-packed multi-model text2image discord bot!|
+|[Enerv/ai-horde-discord-bot](https://github.com/Enerv/ai-horde-discord-bot)|Discord bot written in Node.js adapted to the Pygmalion 6B model and integrated with the AI Horde endpoint gateway.|
+|[OpenReplicant/DiscordPrototype](https://github.com/OpenReplicant/DiscordPrototype)|Prototype Discord bot integrating Kobold Horde LLM with Stable Horde diffusion & captioning. Intent recognition for advanced features, starter project.|
+|[Pudzill/HordeTalk---KoboldAI-Horde-Chatbot](https://github.com/Pudzill/HordeTalk---KoboldAI-Horde-Chatbot)|Terminal chatbot. Powered by KoboldAI Horde.|
+|[ZeldaFan0225/AI_Horde_Discord](https://github.com/ZeldaFan0225/AI_Horde_Discord)|A discord bot to interact with https://stablehorde.net|
+|CraiyonArt Bot<br>[![join telegram](https://img.shields.io/badge/telegram-❤️-252850?style=plastic&logo=telegram)](https://t.me/CraiyonArtBot)|Telegram bot|
+|[HarrisonVanderbyl/WriterBot](https://github.com/harrisonvanderbyl/WriterBot)<br>[website](https://harrisonvanderbyl.github.io/WriterBot/)|Discord bot|
+|~~[TuringAI-Team/turing-bot](https://github.com/MrlolDev/turing-bot)~~<br>*Archived*<br>[![discord](https://dcbadge.vercel.app/api/server/uJDg2SxR8C?style=plastic)](https://dsc.gg/turing)|A discord bot for use the most popular game changing AIs. *Archived*|
 ### Worker projects
 
 |Name|Description|
