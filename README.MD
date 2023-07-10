@@ -103,3 +103,40 @@ These may or may not even be AI-Horde related tools. They mostly have no descrip
 |[VilotStar/StableHorder](https://github.com/VilotStar/StableHorder)|*Looks like a rust project for requesting images*||
 |[XiuruJin/AI-Horde](https://github.com/XiuruJin/AI-Horde)|*Shows up in github search, but doesnt exost???*|
 |[gerardosantacruz/Stable-Horde-App-BasicDemo](https://github.com/gerardosantacruz/Stable-Horde-App-BasicDemo)|*Very old. No documentation.*|
+
+
+
+# Incomplete/TTDO
+
+- https://artificial-art.eu/
+- https://koboldai.org/
+- https://lite.koboldai.net/
+- https://agnai.chat/
+- link to mastodon bots 
+  - https://sigmoid.social/@stablehorde_generator
+  - https://hachyderm.io/@haichy
+- https://t.me/ImaginariumAIbot
+- https://github.com/blueturtleai/gimp-stable-diffusion/tree/main/stablehorde
+- https://chrome.google.com/webstore/detail/genalt-generated-alt-text/ekbmkapnmnhhgfmjdnchgmcfggibebnn
+- https://github.com/grizbil/Auto-Photoshop-StableDiffusion-Plugin
+- https://github.com/benrugg/AI-Render
+- https://github.com/natanjunges/stable-diffusion-webui-stable-horde
+- https://github.com/Mystfit/Unreal-StableDiffusionTools
+- https://github.com/dunkeroni/krita-stable-horde
+- https://github.com/blueturtleai/gimp-stable-diffusion/tree/main/stablehorde
+- https://aihorde.net/api
+- https://aihorde.net/sponsors
+- https://discord.gg/3DxrhksKzn
+- https://www.patreon.com/db0
+- https://dbzer0.com/
+- https://github.com/Haidra-Org/AI-Horde/blob/main/FAQ.md
+- https://github.com/OpenReplicant/ProtoReplicant
+- dreamdiffusion
+- tavernai
+- sillytavern
+- comicsmaker
+- aipainter
+- reddit bot
+- patience.ai
+
+
